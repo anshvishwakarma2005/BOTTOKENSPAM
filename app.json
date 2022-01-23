@@ -67,6 +67,34 @@
         },
         "BOT_TOKEN10": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN11": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN12": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN13": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN14": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN15": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value": ""    
+        },
+        "BOT_TOKEN16": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
+            "value""
+        },
+        "BOT_TOKEN17": {
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
